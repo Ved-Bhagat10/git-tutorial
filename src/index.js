@@ -2,3 +2,4 @@ console.log('index.js');
 console.log('version 1');
 console.log('new version');
 console.log('ICA');
+console.log('EI');
